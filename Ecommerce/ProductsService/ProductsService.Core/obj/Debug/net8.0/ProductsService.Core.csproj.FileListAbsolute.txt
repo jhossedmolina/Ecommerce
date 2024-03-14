@@ -1,0 +1,12 @@
+C:\Users\jhoss\source\repos\Ecommerce\Ecommerce\ProductsService\ProductsService.Core\bin\Debug\net8.0\ProductsService.Core.deps.json
+C:\Users\jhoss\source\repos\Ecommerce\Ecommerce\ProductsService\ProductsService.Core\bin\Debug\net8.0\ProductsService.Core.dll
+C:\Users\jhoss\source\repos\Ecommerce\Ecommerce\ProductsService\ProductsService.Core\bin\Debug\net8.0\ProductsService.Core.pdb
+C:\Users\jhoss\source\repos\Ecommerce\Ecommerce\ProductsService\ProductsService.Core\obj\Debug\net8.0\ProductsService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoss\source\repos\Ecommerce\Ecommerce\ProductsService\ProductsService.Core\obj\Debug\net8.0\ProductsService.Core.AssemblyInfoInputs.cache
+C:\Users\jhoss\source\repos\Ecommerce\Ecommerce\ProductsService\ProductsService.Core\obj\Debug\net8.0\ProductsService.Core.AssemblyInfo.cs
+C:\Users\jhoss\source\repos\Ecommerce\Ecommerce\ProductsService\ProductsService.Core\obj\Debug\net8.0\ProductsService.Core.csproj.CoreCompileInputs.cache
+C:\Users\jhoss\source\repos\Ecommerce\Ecommerce\ProductsService\ProductsService.Core\obj\Debug\net8.0\ProductsService.Core.sourcelink.json
+C:\Users\jhoss\source\repos\Ecommerce\Ecommerce\ProductsService\ProductsService.Core\obj\Debug\net8.0\ProductsService.Core.dll
+C:\Users\jhoss\source\repos\Ecommerce\Ecommerce\ProductsService\ProductsService.Core\obj\Debug\net8.0\refint\ProductsService.Core.dll
+C:\Users\jhoss\source\repos\Ecommerce\Ecommerce\ProductsService\ProductsService.Core\obj\Debug\net8.0\ProductsService.Core.pdb
+C:\Users\jhoss\source\repos\Ecommerce\Ecommerce\ProductsService\ProductsService.Core\obj\Debug\net8.0\ref\ProductsService.Core.dll
